@@ -18,3 +18,11 @@ JavaScript
  mElement.style.transform = `rotate(${mDeg}deg)`;
  hElement.style.transform = `rotate(${hDeg}deg)`;
   ~~~
+  
+  
+  ** Funcionamento
+  
+  Aqui pode-se ver uma pequena demostração do projeto sendo executada 
+  ![](https://github.com/CristianoDaSilvaFerreira/relogio-anologico/blob/main/clock.gif)
+  
+  
